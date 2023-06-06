@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Levan Iakobidze</h1>
 <h3 align="center">A passionate Web developer Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
