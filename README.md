@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Levan Iakobidze</h1>
 <h3 align="center">A passionate Web developer Georgia</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif" />
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 I’m currently learning **Node.js, Express,MongoDb, Python**
 s
