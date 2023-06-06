@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Levan Iakobidze</h1>
 <h3 align="center">A passionate Web developer Georgia</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif" />
 
 - 🌱 I’m currently learning **Node.js, Express,MongoDb, Python**
-
+s
 - 👨‍💻 All of my projects are available at [https://vs-portfolio.vercel.app/](https://vs-portfolio.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js, Typescript**
